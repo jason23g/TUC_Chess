@@ -22,8 +22,8 @@ Project is created with:
 ## Setup
 To run this project, store the jar file locally named my_client.jar, run the jar file
 tuc-chess-server.jar, then run my_client.jar with two arguments:
-* The first argument is the delay of making a move, measured in milliseconds
-* The second argument is the adversarial search algorithm which the client will execute in order to decide its next move, 0 stands for random move, 1 stands for Minimax without using a-b pruning, 2 stands for Minimax using a-b pruning, 3 stands for Monte Carlo Tree search
+* The first argument is the delay of making a move, measured in milliseconds.
+* The second argument is the adversarial search algorithm which the client will execute in order to decide its next move, 0 stands for random move, 1 stands for Minimax without using a-b pruning, 2 stands for Minimax using a-b pruning, 3 stands for Monte Carlo Tree search.
 
 ## Authors
 * Manolis Perakis (AM : 2017030099)
